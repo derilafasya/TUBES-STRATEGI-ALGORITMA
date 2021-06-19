@@ -13,7 +13,6 @@ move_y = [1, 2, 2, 1, -1, -2, -2, -1]
           
 
 
-
 def aman(x, y):
     '''
         A utility function to check if i,j are valid indexes
